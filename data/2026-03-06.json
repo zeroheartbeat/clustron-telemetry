@@ -1,0 +1,1 @@
+{"version":"1.0.0.0","clusterId":"testStore","publicIp":"101.50.88.66","country":"PK","source":1,"nodeId":"20_200_20_20-7805","mode":"cluster","clusterSize":2,"operations":0,"features":{"transactions":1,"kv_get":57218,"kv_put":57339},"sessionDuration":"-04:59:10.9735739","timestampUtc":"2026-03-06T05:41:17.2901398Z"}
